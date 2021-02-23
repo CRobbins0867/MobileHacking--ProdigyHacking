@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Welcome to ProdigyHacking--MobileHacking
 
-You can use the [editor on GitHub](https://github.com/CRobbins0867/MobileHacking--ProdigyHacking/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Goal of ProdigyHacking--MobileHacking
 
-**Bold** and _Italic_ and `Code` text
+**our goal is for Me and my team to hack accounts for players of Prodigy Math Game that only have access to a mobile device/people who can't hack themselves.**
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## how to request a account
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CRobbins0867/MobileHacking--ProdigyHacking/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. **go to the Issues tap at the top of the screen**
 
-### Support or Contact
+2. **click new Issues**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3. **click "Account Request"**
+
+4. **in the titled spots put what you want in the account**
+
+5. **email me (calebthehufflepuff@gmail.com) and tell me what your github username is and that you made a account request** 
+
+6. **you will have the account details within 1-4 days after you email me**
